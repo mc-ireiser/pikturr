@@ -65,7 +65,7 @@
     "lodash._topath": "^3.8.1",
     "lodash.get": "^4.4.2",
     "lodash.isarray": "^4.0.0",
-    "mime-db": "^1.28.0",
+    "mime-db": "^1.43.0",
     "mime-types": "^2.1.15",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
