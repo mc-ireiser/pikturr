@@ -24,7 +24,7 @@
     "async": "^2.4.1",
     "aws-sign2": "^0.7.0",
     "bl": "^1.2.1",
-    "bluebird": "^3.5.0",
+    "bluebird": "^3.7.2",
     "boom": "^5.1.0",
     "call-me-maybe": "^1.0.1",
     "caseless": "^0.12.0",
