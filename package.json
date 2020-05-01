@@ -13,7 +13,9 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec"
+    "test": "./node_modules/.bin/mocha --reporter spec",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "ansi-regex": "^2.1.1",
@@ -98,7 +100,8 @@
     "util-deprecate": "^1.0.2",
     "validator": "^7.0.0",
     "xtend": "^4.0.1",
-    "z-schema": "^3.18.2"
+    "z-schema": "^3.18.2",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {},
   "repository": {
@@ -108,5 +111,6 @@
   "bugs": {
     "url": "https://github.com/nrekretep/pikturr/issues"
   },
-  "homepage": "https://github.com/nrekretep/pikturr#readme"
+  "homepage": "https://github.com/nrekretep/pikturr#readme",
+  "snyk": true
 }
