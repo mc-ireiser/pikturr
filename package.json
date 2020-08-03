@@ -52,7 +52,7 @@
     "hoek": "^4.1.1",
     "http-signature": "^1.1.1",
     "inherits": "^2.0.3",
-    "is-my-json-valid": "^2.16.0",
+    "is-my-json-valid": "^2.20.3",
     "is-property": "^1.0.2",
     "isarray": "^2.0.1",
     "isstream": "^0.1.2",
